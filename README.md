@@ -1,4 +1,5 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Francesco</h1>
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">
+<h1 align="center">Hi, I'm Francesco</h1>
 <h3 align="center">Frontend developer who aims to write quality code</h3>
 
 <div align=center>
