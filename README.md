@@ -2,13 +2,9 @@
 <h1 align="center">Hi, I'm Francesco</h1>
 <h3 align="center">Frontend developer who aims to write quality code</h3>
 
-<div align=center>
-  <a href="https://www.linkedin.com/in/francesco-pandolfi-dev/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
-  
-<h1 align="center">Hi 👋, I'm Francesco</h1>
-<h3 align="center">Frontend developer who aims to write quality code</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=francescopandolfi" alt="francescopandolfi" /></a> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=francescopandolfi" alt="francescopandolfi" /></a> </p>
 
 - 📫 How to reach me **francesco.pan@gmail.com**
 
