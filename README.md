@@ -4,7 +4,8 @@
 
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=francescopandolfi" alt="francescopandolfi" /></a> </p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancescoPandolfi)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <h3 align="center">Connect with me:</h3>
