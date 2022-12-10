@@ -4,7 +4,7 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancescoPandolfi)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancescoPandolfi&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
