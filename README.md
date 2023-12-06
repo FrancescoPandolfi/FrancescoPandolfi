@@ -31,9 +31,3 @@
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" alt="macOS" title="macOS" /></code>
 </div>
 
-<h3 align="center">My Github stats:</h3>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancescoPandolfi&count_private=true&show_icons=true&theme=apprentice&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoPandolfi&hide=php&langs_count=10&show_icons=true&theme=apprentice&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
