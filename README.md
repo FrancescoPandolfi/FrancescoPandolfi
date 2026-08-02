@@ -7,7 +7,7 @@
 <p align="center">
   I’m primarily a <b>Frontend Developer</b> specialized in <b>Angular</b>. However, when working on an application, you'll find me getting my hands dirty everywhere—whether it's building backends in <b>Node.js</b> or <b>Java</b>, or optimizing pipeline performance in <b>GitLab</b> and <b>Docker</b> builds.
   <br/><br/>
-  I have a genuine, relentless drive to learn—exploring new tools, frameworks, and programming languages is something I simply need to do. Driven by this curiosity, I’ve recently developed a strong passion for <b>AI systems development</b> and I am currently attending an <b>AI Engineering</b> course.
+  I have a natural urge to keep learning and picking up new tools or technologies along the way. Right now, my main focus has shifted toward <b>AI systems development</b>, which is why I'm currently attending an <b>AI Engineering</b> course.
 </p>
 
 <h3 align="center">Connect with me:</h3>
