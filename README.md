@@ -38,6 +38,6 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IL_TUO_USERNAME_GITHUB&show_icons=true&theme=radical&hide_border=true" alt="Francesco's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IL_TUO_USERNAME_GITHUB&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FrancescoPandolfi&show_icons=true&theme=radical&hide_border=true" alt="Francesco's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoPandolfi&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" height="150" />
 </div>
